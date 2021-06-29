@@ -1,0 +1,6 @@
+Element Finder
+==============
+
+Thanks for updating Element Finder to version st3-0.3.5
+
+- 07/07/2017 | Fixed settings issue

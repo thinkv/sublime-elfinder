@@ -1,0 +1,17 @@
+Element Finder
+==============
+
+Thanks for updating Element Finder to version st3-0.3.4
+
+Element Finder now works on Sublime Text 3.
+
+This is a continuation of Keegan's original ST2 Element Finder and supports both versions (https://github.com/keeganstreet/sublime-elfinder)
+
+Please note that NodeJS is required to run Element Finder. If you do not have NodeJS installed, go to http://nodejs.org
+
+If Element Finder still doesn't work, please follow these steps:
+1. Go to Sublime Text 3 > Preferences > Package Settings > Element Finder > Settings - Default
+2. Copy the default settings
+3. Go to Sublime Text 3 > Preferences > Package Settings > Element Finder > Settings - User
+4. Paste the settings
+5. Change the "node_path" settings to point to NodeJS on your system
